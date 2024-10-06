@@ -1,0 +1,9 @@
+__Pycache__/
+.idea/
+.venv/
+
+logs/
+pet_images/
+random_pet_images/
+training_models/
+training_models_statistic/

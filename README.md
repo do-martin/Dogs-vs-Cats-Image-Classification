@@ -32,9 +32,9 @@ pip install -r requirements.txt
 
 The project is implemented in a Jupyter Notebook (.ipynb). Open the notebook in Jupyter Lab, Jupyter Notebook, or Visual Studio Code (VSCode) to explore and run the code.
 
-## Sample Images for Evaluation
+## Model Evaluation
 
-To facilitate the evaluation of the model's performance, please create a folder named `Bilder_dogs_cats_test`. In this folder, you should include various images of dogs and cats. These images are intended solely for evaluating the model's accuracy and should not be used during the training phase.
+To facilitate an accurate assessment of the model's performance, please ensure that the folder named `Bilder_dogs_cats_test` is present. This folder should contain a diverse set of images featuring both dogs and cats. These images are exclusively intended for evaluating the model's accuracy and must not be utilized during the training phase.
 
 ### Guidelines for Sample Images
 
@@ -67,13 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Special thanks to the developers of TensorFlow and Keras for their contributions to the field of deep learning.
 - Inspiration from various Kaggle competitions that focus on image classification.
-
-
-### Suggested Changes:
-
-1. **Added a Prerequisites Section:** This clarifies what users need to have before cloning the repository.
-2. **Clarified Cloning Instructions:** Made the cloning steps clearer and more structured.
-3. **Grouped Required Libraries:** Separated the essential libraries from additional ones for better clarity.
-4. **Minor Formatting Adjustments:** Improved formatting for readability.
-
-These changes enhance the overall structure and clarity, making it easier for users to follow your instructions. Let me know if you need any more modifications!

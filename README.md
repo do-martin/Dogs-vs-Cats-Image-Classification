@@ -15,7 +15,7 @@ The **"Dogs vs Cats Image Classification"** project uses a Convolutional Neural 
     source env/bin/activate  # On Windows use `env\Scripts\activate`
     pip install -r requirements.txt
 
-# Usage
+## Usage
 The project is implemented in Jupyter Notebook (.ipynb). Open the notebook in Jupyter Lab or Jupyter Notebook to explore and run the code.
 
 ## Required Libraries
@@ -33,7 +33,7 @@ The project is implemented in Jupyter Notebook (.ipynb). Open the notebook in Ju
 You can find the specific library versions in the `requirements.txt` file.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements, please fork the repository and create a pull request.

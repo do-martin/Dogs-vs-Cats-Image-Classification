@@ -1,6 +1,6 @@
 __Pycache__/
 .idea/
-.venv/
+env/
 Bilder_dogs_cats_test/*
 logs/
 pet_images/
@@ -10,5 +10,4 @@ training_models_statistic/
 zip/
 cats_and_dogs/
 py_classes/
-my_model.h5
 my_model.keras

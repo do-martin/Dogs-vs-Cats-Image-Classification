@@ -20,10 +20,20 @@ Before you begin, ensure you have the following installed:
 
 ### Install Required Packages
 
-It is recommended to create a virtual environment first:
+It is recommended to create a virtual environment first. Ensure that you have Python 3.11 or below installed:
+
+#### Your default Python version is 3.11 or below: 
 
 ```bash
 python -m venv env
+env\Scripts\activate
+pip install -r requirements.txt
+```
+
+#### Alternative: Specify the path to Python 3.11:
+
+```bash
+C:\Path\to\python311\python.exe -m venv env
 env\Scripts\activate
 pip install -r requirements.txt
 ```
@@ -50,12 +60,6 @@ To facilitate an accurate assessment of the model's performance, please ensure t
 - Pandas
 - Matplotlib
 - Seaborn
-
-Additional libraries used include:
-- ZipFile
-- OS
-- Warnings
-- Random
 
 You can find the specific library versions in the `requirements.txt` file.
 

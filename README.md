@@ -35,9 +35,6 @@ You can find the specific library versions in the `requirements.txt` file.
 ## License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-Contributions are welcome! If you have suggestions for improvements, please fork the repository and create a pull request.
-
 ## Acknowledgements
 - Special thanks to the developers of TensorFlow and Keras for their contributions to the field of deep learning.
 - Inspiration from various Kaggle competitions that focus on image classification.

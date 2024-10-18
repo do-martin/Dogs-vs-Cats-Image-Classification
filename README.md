@@ -63,6 +63,10 @@ To facilitate an accurate assessment of the model's performance, please ensure t
 
 You can find the specific library versions in the `requirements.txt` file.
 
+## Disclaimer for Links
+
+The links to external websites included in this project are provided for informational purposes only. I take no responsibility for the content or availability of these websites. The use of these links is at your own risk.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

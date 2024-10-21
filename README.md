@@ -44,7 +44,7 @@ The project is implemented in a Jupyter Notebook (.ipynb). Open the notebook in 
 
 ## Model Evaluation
 
-To facilitate an accurate assessment of the model's performance, please ensure that the folder named `Bilder_dogs_cats_test` is present. This folder should contain a diverse set of images featuring both dogs and cats. These images are exclusively intended for evaluating the model's accuracy and must not be utilized during the training phase.
+To facilitate an accurate assessment of the model's performance, please ensure that the folder named `images_test` is present. This folder should contain a diverse set of images featuring both dogs and cats. These images are exclusively intended for evaluating the model's accuracy and must not be utilized during the training phase.
 
 ### Guidelines for Sample Images
 
